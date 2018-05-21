@@ -1,9 +1,3 @@
----
-description: >-
-  Why Opoch? Here we discuss the factors that have cultivated into formation of
-  Opoch
----
-
 # Entering Crypto Ecosystem
 
 ### Digital Asset Trade Experience
