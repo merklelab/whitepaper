@@ -21,7 +21,7 @@ We gratefully acknowledge the principles, research and pure innovation of others
 16. Giving away Bitcoins/Cryptocurrencies.
 17. [https://www.merriam-webster.com/dictionary/information](https://www.merriam-webster.com/dictionary/information)
 18. AI/ML Take away our Jobs
-19. {% embed data="{\"url\":\"https://cointelegraph.com/news/64-of-germans-aware-of-bitcoin-says-it-association-bitkom\",\"type\":\"link\",\"title\":\"64% Of Germans Aware Of Bitcoin, Says IT Association Bitkom\",\"description\":\"According to a survey of Germany’s digital industry association Bitkom, 64% of citizens are familiar with Bitcoin cryptocurrency.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://cointelegraph.com/android-icon-192x192.png?v1\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://cointelegraph.com/images/1500\_aHR0cHM6Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hZGMwMDYyNjE3NGY4MzNlOTg3NjU2ZjlkNzk1NWVlMi5wbmc=.jpg\",\"width\":1500,\"height\":999,\"aspectRatio\":0.666}}" %}
+19. [https://cointelegraph.com/news/64-of-germans-aware-of-bitcoin-says-it-association-bitkom](https://cointelegraph.com/news/64-of-germans-aware-of-bitcoin-says-it-association-bitkom)
 20. Death of Journalism: [http://www.abc.net.au/radionational/programs/futuretense/losing-money-and-losing-trust-the-crisis-of-modern-journalism/7679066](http://www.abc.net.au/radionational/programs/futuretense/losing-money-and-losing-trust-the-crisis-of-modern-journalism/7679066)
 21. Touch ID: [https://en.wikipedia.org/wiki/Touch\_ID](https://en.wikipedia.org/wiki/Touch_ID)
 22. Face ID: [https://en.wikipedia.org/wiki/Face\_ID](https://en.wikipedia.org/wiki/Face_ID)
