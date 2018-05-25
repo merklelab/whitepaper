@@ -14,7 +14,7 @@ The founding team have known each other since last 12 years. Parth and DV have s
 * Abhishek has experience working with Technology and Finance. He worked as a Software Engineer with Indus Valley Partner, which supports $1.3T+ Assets Under Management with it's software stack. He worked on Security Management Software which boasts world’s top Hedge Funds as Clients. 
 * Prior to Opoch, Abhishek worked as Co-founder and COO of Zostel. He was the first person who worked full-time, and contributed in scaling the company 0 to 700+ employees. He led Operations and Finance at Zostel during his stint and witnessed the company growing from $0 to $25m ARR. 
 
-### Parth Chaudhary
+### Parth Choudhary
 
 * Co-founder and CTO
 * Parth builds scalable technology. It is difficult to put his mojo in a simpler manner. He led the engineering at Zostel from 0 to 500,000+ transactions per month. He showcased building technology is more than money when he repeatedly beat the competition in delivery, quality and platform availability. 
