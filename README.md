@@ -12,8 +12,8 @@ _Unveiling The Information Age_
 
 **Authors**
 
-* Parth Choudhary
 * Dharamveer Singh Chouhan
+* Parth Choudhary
 * Abhishek Bhutra
 
 ### Abstract

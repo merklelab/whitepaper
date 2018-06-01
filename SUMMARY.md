@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Opoch Whitepaper](README.md)
-* [Abstract](abstract.md)
 * [Table of Contents](table-of-contents.md)
 * [Key Concepts](key-concepts.md)
 * [Background](background-1.md)
