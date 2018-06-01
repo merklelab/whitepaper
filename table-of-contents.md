@@ -4,10 +4,10 @@
 
 | S. No. | Content | Page Number |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Abstract | 1 |
-| 2 | Table of Contents | 2 |
-| 3 | Key Concepts | 3 |
-| 3 | Background | 4 |
+| 1 | [Opoch Whitepaper](README.md) | 1 |
+| 2 | [Table of Contents](table-of-contents.md) | 2 |
+| 3 | [Key Concepts](key-concepts.md) | 3 |
+| 3 | [Background](background-1.md) | 4 |
 | 4 | Introduction | 5 |
 | 4.1 | Entering Crypto Ecosystem | 6 |
 | 4.2 | Storing Digital Assets | 7 |
