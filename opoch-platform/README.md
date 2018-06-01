@@ -9,3 +9,11 @@ In the next section we describe in detail the Opoch App and it's sub-modules.
 3. Decentralized Crypto Exchange
 4. Opoch Platform
 
+## Wallet
+
+## Decentralized Fiat-Crypto P2P Marketplace
+
+## Decentralized Crypto Exchange
+
+## Opoch Platform
+
