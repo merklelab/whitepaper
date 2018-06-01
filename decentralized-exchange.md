@@ -4,7 +4,7 @@ Decentralized exchange is a necessary bridge between users and the broader ecosy
 
  
 
-![Figure showing exchange of digital asset on Opoch using Kyber](../.gitbook/assets/screen-shot-2018-05-11-at-19.19.19.png)
+![Figure showing exchange of digital asset on Opoch using Kyber](.gitbook/assets/screen-shot-2018-05-11-at-19.19.19.png)
 
 **Kyber Network**
 
@@ -50,7 +50,7 @@ Though Kyber Network integration allows users to exchange cryptocurrency built o
   
 We create cryptocurrency pool managed via smart contract. This would allow users to do cross chain transfers. 
 
-![Figure showing cross-blockchain exchange of digital assets](../.gitbook/assets/screen-shot-2018-05-12-at-22.45.31.png)
+![Figure showing cross-blockchain exchange of digital assets](.gitbook/assets/screen-shot-2018-05-12-at-22.45.31.png)
 
 The user transfers fund from the source blockchain to the smart contract cryptocurrency pool, while specifying the desired blockchain asset and address for receiving it. When the transfer on the first blockchain is complete, the other side of smart contract managed pool would release the required crypto assets to the mentioned address.
 

@@ -22,7 +22,7 @@ There are four participants in this exchange and roles of these are briefly desc
 3. **Relayer:** Helps in order discovery by providing a platform, and paying for transaction fees if a user is unable to provide for fees him/herself.
 4. **Arbiter:** Arbiter helps solve the dispute if and when it arises. 
 
-![](../.gitbook/assets/screen-shot-2018-05-13-at-11.32.36.png)
+![](.gitbook/assets/screen-shot-2018-05-13-at-11.32.36.png)
 
 * Buyer creates an off-chain bid on relayer to buy OPCH Tokens.
 * Relayer broadcasts the bid on it's platform and updates it's order book.
