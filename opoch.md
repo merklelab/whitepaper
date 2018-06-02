@@ -2,14 +2,12 @@
 
 With the described problems in mind, we are building **Opoch App** which we envision will help onboard the next billion cryptocurrency users and become the go-to application for them to interact with the decentralised technology.
 
-In the next section we describe in detail the Opoch App and it's sub-modules. 
+In the next section we describe in detail the Opoch App and it's sub-modules.
 
 1. Wallet
 2. Decentralized Fiat-Crypto P2P Marketplace
 3. Decentralized Crypto Exchange
 4. Opoch Platform
-
-----
 
 ## Wallet
 
@@ -31,7 +29,7 @@ _Opoch Wallet encapsulating several Cryptocurrency wallets_
 
 ### Cross-Platform
 
-Opoch features a cross-platform wallet, i.e. if a user would like to switch from one platform to another, such as Mobile to desktop, or Android to iOS, Opoch allows users to make this switch conveniently via either Importing Master-Seed Phrase or pairing via Opoch Mobile App \(Similar to Web Whatsapp\) 
+Opoch features a cross-platform wallet, i.e. if a user would like to switch from one platform to another, such as Mobile to desktop, or Android to iOS, Opoch allows users to make this switch conveniently via either Importing Master-Seed Phrase or pairing via Opoch Mobile App \(Similar to Web Whatsapp\)
 
 ![Figure showing Opoch wallet Master Seed which can be imported in different platforms to generate wallet](.gitbook/assets/screen-shot-2018-05-11-at-21.06.45.png)
 
@@ -43,10 +41,7 @@ Opoch uses **Shamir's Secret Sharing** algorithm for building Social Recovery me
 
 ![Figure showing social recovery with 6 shards and a threshold of 4](.gitbook/assets/screen-shot-2018-05-13-at-01.03.23.png)
 
-----
-
 ## Decentralized Fiat-Crypto P2P Marketplace
-
 
 Opoch makes acquiring cryptocurrencies a truly peer-to-peer transaction without any 3rd party holding users' assets. For a great user experience, Opoch aims to achieve this exchange in under a minute, utilizing current and upcoming technologies.
 
@@ -88,7 +83,7 @@ The message signed by seller has following data. This is required to create escr
 | sellerAddress | address | Address of Seller |
 | buyerAddress | address | Address of Buyer |
 | arbiterAddress | address | Address of Arbiter |
-| arbiterFees | uint256  | Fees to Arbiter |
+| arbiterFees | uint256 | Fees to Arbiter |
 | relayerAddress | address | Address of Relayer |
 | relayerFees | uint256 | Fees to Relayer |
 | tokenAmount | uint256 | Amount of token in escrow |
@@ -96,22 +91,17 @@ The message signed by seller has following data. This is required to create escr
 | expiration | uint256 | Expiration time of escrow |
 | v, r, s | uint8, bytes32, bytes32 | ECDSA Signature of above parameters. |
 
-----
-
 ## Decentralized Crypto Exchange
 
-
 Decentralized exchange is a necessary bridge between users and the broader ecosystem. With the rise in number of cryptocurrencies, it would be impractical to expect that users would hold several cryptocurrencies in their wallet. Yet, they would like to access the ecosystem and the niche possibilities opened by each of these cryptocurrencies. Decentralized exchange built using KyberNetwork allows users to acquire cryptocurrencies as and when needed.
-
- 
 
 ![Figure showing exchange of digital asset on Opoch using Kyber](.gitbook/assets/screen-shot-2018-05-11-at-19.19.19.png)
 
 **Kyber Network**
 
-Kyber Network is trustless decentralized exchange service which allows instant exchange and conversion of digital assets \[Citation\]. 
+Kyber Network is trustless decentralized exchange service which allows instant exchange and conversion of digital assets \[Citation\].
 
-Kyber Network builds a decentralized exchange which does not have a order-book. Instead of that it uses concept of liquidity pools which help get the exchange price between two tokens upfront. User is able to complete the token exchange instantaneously at this price. 
+Kyber Network builds a decentralized exchange which does not have a order-book. Instead of that it uses concept of liquidity pools which help get the exchange price between two tokens upfront. User is able to complete the token exchange instantaneously at this price.
 
 Kyber Network provide APIs to integrate these services with other applications.
 
@@ -147,18 +137,15 @@ Details around various parameters are as follows:
 
 ### Cross-Chain Interaction
 
-Though Kyber Network integration allows users to exchange cryptocurrency built over ethereum blockchain \(the majority\) instantaneously. It is not possible to exchange assets of other blockchains with this.   
-  
-We create cryptocurrency pool managed via smart contract. This would allow users to do cross chain transfers. 
+Though Kyber Network integration allows users to exchange cryptocurrency built over ethereum blockchain \(the majority\) instantaneously. It is not possible to exchange assets of other blockchains with this.
+
+We create cryptocurrency pool managed via smart contract. This would allow users to do cross chain transfers.
 
 ![Figure showing cross-blockchain exchange of digital assets](.gitbook/assets/screen-shot-2018-05-12-at-22.45.31.png)
 
 The user transfers fund from the source blockchain to the smart contract cryptocurrency pool, while specifying the desired blockchain asset and address for receiving it. When the transfer on the first blockchain is complete, the other side of smart contract managed pool would release the required crypto assets to the mentioned address.
 
-----
-
 ## Opoch Platform
-
 
 Opoch aims to become the gateway app for all decentralized experiences, for billions of users. We are building Opoch in an open and modular manner, thus opening our platform with features and modules for empowering developers and businesses with our platform. This removes the redundancy of building common infrastructure requirements for multiple use cases.
 
@@ -180,16 +167,13 @@ Opoch provides APIs for other developers to build on Opoch's platform.
 
 ![Figure showing Wallet API use for sending a transaction as requested by client App](.gitbook/assets/screen-shot-2018-05-11-at-20.53.02.png)
 
-
 #### Exchange API
 
 * **Token Exchange Request**: Application might require tokens that user does not hold in his/her Opoch wallet. In this case, applications building over Opoch can prompt the user to exchange other tokens for required tokens. If there are insufficient assets to provide this exchange, Opoch platform will initiate buying request for required tokens through Fiat-Crypto Exchange API. Post this, the application process will be resumed for completion.
 
 ![Figure showing Exchange API use for converting tokens as requested by client app](.gitbook/assets/screen-shot-2018-05-11-at-20.54.06.png)
 
-
 * **Subscription**: Subscription economy has been rising in recent years. There are some great examples like Netflix and Spotify of success of Opt-out subscription model. There were 11 Million business-to-consumer subscribers in US alone in 2017\[citation\]. There is no-way in current cryptocurrency ecosystem to power these businesses.  Opoch enables opt-out subscription model with crypto assets available Blockchain with smart contracts . On the user side we create a single smart contract to handle all the subscriptions. The business would be able to deduct approved amount of tokens from this smart contract in a pre-specified time window.
 
 ![Figure showing Exchange API use where client application requests for subscription payment](.gitbook/assets/screen-shot-2018-05-12-at-23.47.29.png)
-
 

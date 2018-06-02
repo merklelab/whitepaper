@@ -1,7 +1,3 @@
----
-description: Version 1.11
----
-
 # Opoch Whitepaper
 
 _Unveiling The Information Age_
