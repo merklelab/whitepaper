@@ -5,7 +5,7 @@
 * [Key Concepts](key-concepts.md)
 * [Background](background-1.md)
 * [Introduction](introduction.md)
-* [Opoch](opoch-platform.md)
+* [Opoch](opoch.md)
 * [Milestones](future-developments.md)
 * [Team](team.md)
 * [Token \(OPOC\)](token-opch.md)
