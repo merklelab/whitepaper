@@ -23,7 +23,7 @@ Opoch wallet is a multi-currency wallet, i.e. it can be used with Bitcoin, Ether
 
 Opoch wallet uses a single master-seed phrase that generates cryptographically secure Private-Public Key pairs in required formats with adequate randomness for different blockchains. This allows users to hold multiple cryptocurrencies conveniently without the hassles of remembering multiple mnemonics.
 
-![Figure showing Opoch Wallet encapsulating several Cryptocurrency wallets](.gitbook/assets/screen-shot-2018-05-11-at-20.55.56.png)
+![Figure showing Opoch Wallet encapsulating several Cryptocurrency wallets](.gitbook/assets/screen-shot-2018-05-11-at-20.55.56.png | width=500)
 
 _Opoch Wallet encapsulating several Cryptocurrency wallets_
 
@@ -31,7 +31,7 @@ _Opoch Wallet encapsulating several Cryptocurrency wallets_
 
 Opoch features a cross-platform wallet, i.e. if a user would like to switch from one platform to another, such as Mobile to desktop, or Android to iOS, Opoch allows users to make this switch conveniently via either Importing Master-Seed Phrase or pairing via Opoch Mobile App \(Similar to Web Whatsapp\)
 
-![Figure showing Opoch wallet Master Seed which can be imported in different platforms to generate wallet](.gitbook/assets/screen-shot-2018-05-11-at-21.06.45.png)
+![Figure showing Opoch wallet Master Seed which can be imported in different platforms to generate wallet](.gitbook/assets/screen-shot-2018-05-11-at-21.06.45.png | width=500)
 
 ### Social Recovery
 
@@ -151,7 +151,7 @@ Opoch aims to become the gateway app for all decentralized experiences, for bill
 
 We begin by providing Wallet and Exchange APIs for developers so that they can focus on their product/service without worrying about starting from scratch. Opoch Platform would help catapult the cryptocurrency adoption by building together with the community.
 
-![Figure showing Opoch Platform Architecture](.gitbook/assets/screen-shot-2018-05-12-at-22.51.01.png)
+![Figure showing Opoch Platform Architecture](.gitbook/assets/screen-shot-2018-05-12-at-22.51.01.png | width=500)
 
 ### Developer APIs
 
