@@ -4,7 +4,7 @@ We gratefully acknowledge the principles, research and pure innovation of others
 
 
 1. Cryptourrency Market Capitalization:[ https://coinmarketcap.com/charts/](https://coinmarketcap.com/charts/)
-2. Swan, M. Blockchain: Blueprint for a new economy "O’Reilly Media, Inc.", 2015: [ http://w2.blockchain-tec.net/blockchain/blockchain-by-melanie-swan.pdf]
+2. Swan, M. Blockchain: Blueprint for a new economy "O’Reilly Media, Inc.", 2015: http://w2.blockchain-tec.net/blockchain/blockchain-by-melanie-swan.pdf
 3. Bitcoin: A Peer-to-Peer Electronic Cash System -[ https://bitcoin.org/bitcoin.pdf](https://bitcoin.org/bitcoin.pdf)
 4. Cosmos: Internet of Blockchains - [ https://cosmos.network/whitepaper](https://cosmos.network/whitepaper)
 5. Polkadot -[ https://polkadot.network/Polkadot-lightpaper.pdf](https://polkadot.network/Polkadot-lightpaper.pdf)
