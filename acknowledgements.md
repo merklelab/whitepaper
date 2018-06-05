@@ -5,7 +5,7 @@ We gratefully acknowledge the principles, research and pure innovation of others
 1. Cryptourrency Market Capitalization:[ https://coinmarketcap.com/charts/](https://coinmarketcap.com/charts/)
 2. Swan, M. Blockchain: Blueprint for a new economy "O’Reilly Media, Inc.", 2015: [http://w2.blockchain-tec.net/blockchain/blockchain-by-melanie-swan.pdf](http://w2.blockchain-tec.net/blockchain/blockchain-by-melanie-swan.pdf)
 3. Bitcoin - A Peer-to-Peer Electronic Cash System -[ https://bitcoin.org/bitcoin.pdf](https://bitcoin.org/bitcoin.pdf)
-4. Ethereum: https://ethereum.org/
+4. Ethereum: [https://ethereum.org/](https://ethereum.org/)
 5. Cosmos: Internet of Blockchains - [ https://cosmos.network/whitepaper](https://cosmos.network/whitepaper)
 6. Polkadot -[ https://polkadot.network/Polkadot-lightpaper.pdf](https://polkadot.network/Polkadot-lightpaper.pdf)
 7. [https://developer.android.com/reference/android/content/Intent.html](https://developer.android.com/reference/android/content/Intent.html)
@@ -21,14 +21,15 @@ We gratefully acknowledge the principles, research and pure innovation of others
 17. Face ID: [https://en.wikipedia.org/wiki/Face\_ID](https://en.wikipedia.org/wiki/Face_ID)
 18. Global Internet Population: [https://www.statista.com/statistics/617136/digital-population-worldwide/](https://www.statista.com/statistics/617136/digital-population-worldwide/)
 19. Ari David Paul on Cryptocurrency adoption: [https://twitter.com/AriDavidPaul/status/990834672866381824](https://twitter.com/AriDavidPaul/status/990834672866381824)
-20. Shamir's Secret Sharing: \[[https://en.wikipedia.org/wiki/Shamir's\_Secret\_Sharing\]\(https://en.wikipedia.org/wiki/Shamir's\_Secret\_Sharing](https://en.wikipedia.org/wiki/Shamir's_Secret_Sharing]%28https://en.wikipedia.org/wiki/Shamir's_Secret_Sharing)\)
+20. Shamir's Secret Sharing: \[\[[https://en.wikipedia.org/wiki/Shamir's\_Secret\_Sharing\]\(https://en.wikipedia.org/wiki/Shamir's\_Secret\_Sharing\]\(https://en.wikipedia.org/wiki/Shamir's\_Secret\_Sharing\]\(https://en.wikipedia.org/wiki/Shamir's\_Secret\_Sharing\)\](https://en.wikipedia.org/wiki/Shamir's_Secret_Sharing]%28https://en.wikipedia.org/wiki/Shamir's_Secret_Sharing]%28https://en.wikipedia.org/wiki/Shamir's_Secret_Sharing]%28https://en.wikipedia.org/wiki/Shamir's_Secret_Sharing%29\)\)
 21. Smart Contracts: [https://cointelegraph.com/explained/smart-contracts-explained](https://cointelegraph.com/explained/smart-contracts-explained)
 22. Script: [https://en.bitcoin.it/wiki/Script](https://en.bitcoin.it/wiki/Script)
 23. Amazon Killing Retail: [https://www.cheatsheet.com/money-career/stores-destroyed-by-amazon.html](https://www.cheatsheet.com/money-career/stores-destroyed-by-amazon.html/?a=viewall)
 24. Centralised exchange failures: [https://rados.io/list-of-documented-exchange-hacks/](https://rados.io/list-of-documented-exchange-hacks/)
-25. Bitcoin Timelock Transactions: https://en.bitcoin.it/wiki/Timelock
-26. Bitcoin MultiSig Transactions: https://en.bitcoin.it/wiki/Multisignature
-27. Smart Contract: https://en.wikipedia.org/wiki/Smart_contract
-28. Private Keys: https://en.bitcoin.it/wiki/Private_key
-29. Mnemonic Codes: https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki
-30. Mnemonic Wordlist: https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki#wordlist
+25. Bitcoin Timelock Transactions: [https://en.bitcoin.it/wiki/Timelock](https://en.bitcoin.it/wiki/Timelock)
+26. Bitcoin MultiSig Transactions: [https://en.bitcoin.it/wiki/Multisignature](https://en.bitcoin.it/wiki/Multisignature)
+27. Smart Contract: [https://en.wikipedia.org/wiki/Smart\_contract](https://en.wikipedia.org/wiki/Smart_contract)
+28. Private Keys: [https://en.bitcoin.it/wiki/Private\_key](https://en.bitcoin.it/wiki/Private_key)
+29. Mnemonic Codes: [https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki)
+30. Mnemonic Wordlist: [https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki\#wordlist](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki#wordlist)
+
