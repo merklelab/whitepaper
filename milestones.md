@@ -30,7 +30,3 @@ Launching Dapp layer of Opoch to allow anybody to build over the Opoch protocol 
 
 
 
-| Name | Start Date | Updates |  |
-| --- | --- |
-| Shodh |  |  |  |
-
