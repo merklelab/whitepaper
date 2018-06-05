@@ -99,7 +99,7 @@ Decentralized exchange is a necessary bridge between users and the broader ecosy
 
 **Kyber Network**
 
-Kyber Network is trustless decentralized exchange service which allows instant exchange and conversion of digital assets \[Citation\].
+Kyber Network is trustless decentralized exchange service which allows instant exchange and conversion of digital assets \[31\].
 
 Kyber Network builds a decentralized exchange which does not have a order-book. Instead of that it uses concept of liquidity pools which help get the exchange price between two tokens upfront. User is able to complete the token exchange instantaneously at this price.
 
