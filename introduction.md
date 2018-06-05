@@ -1,6 +1,6 @@
 # Introduction
 
-Why **Bitcoin: A Peer to Peer Electronic Cash System\[11\]** or any other cryptocurrency is not used at large scale right now?
+Why **Bitcoin: A Peer to Peer Electronic Cash System\[3\]** or any other cryptocurrency is not used at large scale right now?
 
 Early adopters cross barriers and are not afraid to use technologies that have high friction. Yet, among all the different use cases that have driven anyone to interact with the decentralised world, the total adoption is still less than 1%.
 
@@ -64,7 +64,7 @@ In the information age, the real battles are being fought with scammers and hack
 
 ### Centralized System Risks 
 
-Today, most users have their digital assets stored in **centralized systems,** which are insecure and have a single point of failure. They have witnessed loss of funds via hacks, malicious activities, etc.\[33\] These events have inhibited growth of user trust and adoption.
+Today, most users have their digital assets stored in **centralized systems,** which are insecure and have a single point of failure. They have witnessed loss of funds via hacks, malicious activities, etc.\[24\] These events have inhibited growth of user trust and adoption.
 
 At its core, Opoch has a decentralized multi-currency cross platform wallet. This makes sure users hold their assets in their own hands, and therefore are completely secure from such risks or attacks.
 
@@ -96,7 +96,7 @@ The possibilities that are unlocked when larger masses have adopted cryptocurren
 
 ### Bridging Token Ecosystem
 
-Distributed file storage, prediction markets, distributed video encodingetc. are but a few of the utilities that are being built in web 3.0. Most of them are being built as self-sustaining ecosystems having their own unique tokens for the niche service or utility they provide.\[35\]
+Distributed file storage, prediction markets, distributed video encodingetc. are but a few of the utilities that are being built in web 3.0. Most of them are being built as self-sustaining ecosystems having their own unique tokens for the niche service or utility they provide.
 
 The Opoch platform with its integrated decentralized exchange will empower developers, to use these tokens seamlessly to build applications. From a user point of view, s/he will hold assets in desired cryptocurrencies and inter-conversion between tokens, required to use these applications, would be handled by the platform.
 
