@@ -1,10 +1,9 @@
 # Acknowledgements
 
-We gratefully acknowledge the principles, research and pure innovation of others on the blockchain ecosystem. Opoch is but an attempt to take forward the good work others have done. We also acknowledge the support of our backers and advisors. We are grateful for the Merkle Lab's team - talented, passionate people who don’t take offense at being called dreamers.  
-
+We gratefully acknowledge the principles, research and pure innovation of others on the blockchain ecosystem. Opoch is but an attempt to take forward the good work others have done. We also acknowledge the support of our backers and advisors. We are grateful for the Merkle Lab's team - talented, passionate people who don’t take offense at being called dreamers.
 
 1. Cryptourrency Market Capitalization:[ https://coinmarketcap.com/charts/](https://coinmarketcap.com/charts/)
-2. Swan, M. Blockchain: Blueprint for a new economy "O’Reilly Media, Inc.", 2015: http://w2.blockchain-tec.net/blockchain/blockchain-by-melanie-swan.pdf
+2. Swan, M. Blockchain: Blueprint for a new economy "O’Reilly Media, Inc.", 2015: [http://w2.blockchain-tec.net/blockchain/blockchain-by-melanie-swan.pdf](http://w2.blockchain-tec.net/blockchain/blockchain-by-melanie-swan.pdf)
 3. Bitcoin: A Peer-to-Peer Electronic Cash System -[ https://bitcoin.org/bitcoin.pdf](https://bitcoin.org/bitcoin.pdf)
 4. Cosmos: Internet of Blockchains - [ https://cosmos.network/whitepaper](https://cosmos.network/whitepaper)
 5. Polkadot -[ https://polkadot.network/Polkadot-lightpaper.pdf](https://polkadot.network/Polkadot-lightpaper.pdf)
@@ -24,8 +23,9 @@ We gratefully acknowledge the principles, research and pure innovation of others
 19. Top Sites of the world: [https://www.alexa.com/topsites](https://www.alexa.com/topsites)
 20. Global Internet Population: [https://www.statista.com/statistics/617136/digital-population-worldwide/](https://www.statista.com/statistics/617136/digital-population-worldwide/)
 21. Ari David Paul on Cryptocurrency adoption: [https://twitter.com/AriDavidPaul/status/990834672866381824](https://twitter.com/AriDavidPaul/status/990834672866381824)
-22. Shamir's Secret Sharing: [https://en.wikipedia.org/wiki/Shamir's\_Secret\_Sharing](https://en.wikipedia.org/wiki/Shamir's_Secret_Sharing)
+22. Shamir's Secret Sharing: \[[https://en.wikipedia.org/wiki/Shamir's\_Secret\_Sharing\]\(https://en.wikipedia.org/wiki/Shamir's\_Secret\_Sharing](https://en.wikipedia.org/wiki/Shamir's_Secret_Sharing]%28https://en.wikipedia.org/wiki/Shamir's_Secret_Sharing)\)
 23. Smart Contracts: [https://cointelegraph.com/explained/smart-contracts-explained](https://cointelegraph.com/explained/smart-contracts-explained)
 24. Script: [https://en.bitcoin.it/wiki/Script](https://en.bitcoin.it/wiki/Script)
 25. Amazon Killing Retail: [https://www.cheatsheet.com/money-career/stores-destroyed-by-amazon.html](https://www.cheatsheet.com/money-career/stores-destroyed-by-amazon.html/?a=viewall)
 26. Centralised exchange failures: [https://rados.io/list-of-documented-exchange-hacks/](https://rados.io/list-of-documented-exchange-hacks/)
+

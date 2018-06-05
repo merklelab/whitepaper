@@ -8,7 +8,6 @@
 * [Opoch](opoch.md)
 * [Milestones](milestones.md)
 * [Team](team.md)
-* [Token \(OPOC\)](token-opoc.md)
 * [Closing Remarks](closing-remarks.md)
 * [Acknowledgements](acknowledgements.md)
 
