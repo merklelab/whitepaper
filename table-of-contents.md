@@ -3,7 +3,7 @@
 
 
 | S. No. | Content | Page Number |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Abstract | 1 |
 | 2 | Table of Contents | 2 |
 | 3 | Key Concepts | 3 |
@@ -19,9 +19,8 @@
 | 5.4 | Opoch Platfrom | 13 |
 | 6 | MIlestones | 14 |
 | 7 | Team | 15 |
-| 8 | Token \(OPOC\) | 16 |
-| 9 | Closing Remarks | 17 |
-| 10 | Acknowledgement | 18 |
+| 9 | Closing Remarks | 16 |
+| 10 | Acknowledgement | 17 |
 
 
 
