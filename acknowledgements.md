@@ -32,4 +32,5 @@ We gratefully acknowledge the principles, research and pure innovation of others
 28. Private Keys: [https://en.bitcoin.it/wiki/Private\_key](https://en.bitcoin.it/wiki/Private_key)
 29. Mnemonic Codes: [https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki)
 30. Mnemonic Wordlist: [https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki\#wordlist](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki#wordlist)
+31. Kyber Network: [https://github.com/KyberNetwork/smart-contracts/blob/master/integration.md](https://github.com/KyberNetwork/smart-contracts/blob/master/integration.md)
 
