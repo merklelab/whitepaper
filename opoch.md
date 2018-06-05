@@ -151,7 +151,7 @@ Opoch aims to become the gateway app for all decentralized experiences, for bill
 
 We begin by providing Wallet and Exchange APIs for developers so that they can focus on their product/service without worrying about starting from scratch. Opoch Platform would help catapult the cryptocurrency adoption by building together with the community.
 
-![Figure showing Opoch Platform Architecture](.gitbook/assets/screen-shot-2018-05-12-at-22.51.01.png | width=500)
+![Figure showing Opoch Platform Architecture](.gitbook/assets/screen-shot-2018-05-12-at-22.51.01.png)
 
 ### Developer APIs
 
