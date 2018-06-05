@@ -3,16 +3,16 @@
 We gratefully acknowledge the principles, research and pure innovation of others on the blockchain ecosystem. Opoch is but an attempt to take forward the good work others have done. We also acknowledge the support of our backers and advisors. We are grateful for the Merkle Lab's team - talented, passionate people who don’t take offense at being called dreamers.  
 
 
-1. **Cryptourrency Market Capitalization:**[ **https://coinmarketcap.com/charts/**](https://coinmarketcap.com/charts/)
-2. **Swan, M. Blockchain: Blueprint for a new economy. " O’Reilly Media, Inc.", 2015.**
-3. **Bitcoin: A Peer-to-Peer Electronic Cash System -**[ **https://bitcoin.org/bitcoin.pdf**](https://bitcoin.org/bitcoin.pdf)
-4. **Cosmos: Internet of Blockchains -** [ **https://cosmos.network/whitepaper**](https://cosmos.network/whitepaper)
-5. **Polkadot -**[ **https://polkadot.network/Polkadot-lightpaper.pdf**](https://polkadot.network/Polkadot-lightpaper.pdf)
-6. [**https://developer.android.com/reference/android/content/Intent.html**](https://developer.android.com/reference/android/content/Intent.html)
-7. **The rise of APIs -**[ **https://techcrunch.com/2016/05/21/the-rise-of-apis/**](https://techcrunch.com/2016/05/21/the-rise-of-apis/)
-8. **Weth -**[ **https://weth.io/**](https://weth.io/)
-9. **Stable Coins -**[ **https://multicoin.capital/2018/01/17/an-overview-of-stablecoins/**](https://multicoin.capital/2018/01/17/an-overview-of-stablecoins/)
-10. Bitcoin Whiepaper: [**https://bitcoin.org/bitcoin.pdf**](https://bitcoin.org/bitcoin.pdf)
+1. Cryptourrency Market Capitalization:[ https://coinmarketcap.com/charts/](https://coinmarketcap.com/charts/)
+2. Swan, M. Blockchain: Blueprint for a new economy. " O’Reilly Media, Inc.", 2015.
+3. Bitcoin: A Peer-to-Peer Electronic Cash System -[ https://bitcoin.org/bitcoin.pdf](https://bitcoin.org/bitcoin.pdf)
+4. Cosmos: Internet of Blockchains - [ https://cosmos.network/whitepaper](https://cosmos.network/whitepaper)
+5. Polkadot -[ https://polkadot.network/Polkadot-lightpaper.pdf](https://polkadot.network/Polkadot-lightpaper.pdf)
+6. [https://developer.android.com/reference/android/content/Intent.html](https://developer.android.com/reference/android/content/Intent.html)
+7. The rise of APIs -[ https://techcrunch.com/2016/05/21/the-rise-of-apis/](https://techcrunch.com/2016/05/21/the-rise-of-apis/)
+8. Weth -[ https://weth.io/](https://weth.io/)
+9. Stable Coins -[ https://multicoin.capital/2018/01/17/an-overview-of-stablecoins/](https://multicoin.capital/2018/01/17/an-overview-of-stablecoins/)
+10. Bitcoin Whiepaper: [https://bitcoin.org/bitcoin.pdf](https://bitcoin.org/bitcoin.pdf)
 11. History of Internet: [https://en.wikipedia.org/wiki/History\_of\_the\_Internet](https://en.wikipedia.org/wiki/History_of_the_Internet)
 12. [https://blog.coinfund.io/fat-protocols-are-not-an-investment-thesis-17c8837c2734](https://blog.coinfund.io/fat-protocols-are-not-an-investment-thesis-17c8837c2734)
 13. Ebay reference
@@ -35,6 +35,3 @@ We gratefully acknowledge the principles, research and pure innovation of others
 30. Script: [https://en.bitcoin.it/wiki/Script](https://en.bitcoin.it/wiki/Script)
 31. Amazon Killing Retail: [https://www.cheatsheet.com/money-career/stores-destroyed-by-amazon.html](https://www.cheatsheet.com/money-career/stores-destroyed-by-amazon.html/?a=viewall)
 32. Centralised exchange failures: [https://rados.io/list-of-documented-exchange-hacks/](https://rados.io/list-of-documented-exchange-hacks/)
-
-
-
