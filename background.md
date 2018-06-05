@@ -10,7 +10,7 @@ The last_1,000 years_ saw coming of industrial age making industries and large s
 
 The 21st century will be the unveiling of the information age. These_100 years_ will reshape us as a true information society. Our conceptions of the world, and the overarching structures that people today abide by, will once again change and orient itself around the facets of the information age, connectivity, and the internet. These changes have already become very apparent, with increasing transparency, and society adopting technology on large scales in various ways. It is the time to adapt to an evolving world
 
-Internet and the last 25 years have been the early phase of this era. We've seen the global infrastructure come to existence connecting 4+ billion individuals every month\[26\]. Internet and information age now await an ascend.
+Internet and the last 25 years have been the early phase of this era. We've seen the global infrastructure come to existence connecting 4+ billion individuals every month\[18\]. Internet and information age now await an ascend.
 
 Bitcoin, Blockchain and Web 3.0 are next phase of evolution for internet. Driving their adoption to masses, while reducing friction for interaction and utility, is what Opoch aims to achieve.
 
@@ -20,5 +20,5 @@ The opportunities and industries that this evolution brings to us completely res
 
 Cryptocurrencies have seen tremendous growth in recent years. The total market cap has risen from ~$15B in Dec'16 to ~$400B in Dec'17. The trading volume of these cryptocurrencies has risen from ~$250M/day to ~$10B/day in the same time period \[1\]. 
 
-Despite being in hyper-growth phase in the early adopter community, we have not been able to see a similar growth curve among the larger audience. The percentage of total population using cryptocurrencies beyond trading is very small number. Some aggressive estimates on anyone, who has ever traded or utilized cryptocurrencies are at 76m or &lt;1% of population\[28\]. Next phase of crypto, now calls for diffusion of decentralized technology among all of us.
+Despite being in hyper-growth phase in the early adopter community, we have not been able to see a similar growth curve among the larger audience. The percentage of total population using cryptocurrencies beyond trading is very small number. Some aggressive estimates on anyone, who has ever traded or utilized cryptocurrencies are at 76m or &lt;1% of population\[18\]. Next phase of crypto, now calls for diffusion of decentralized technology among all of us.
 
