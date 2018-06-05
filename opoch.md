@@ -37,7 +37,7 @@ Opoch features a cross-platform wallet, i.e. if a user would like to switch from
 
 Social recovery is the concept by which a user is able to recover lost private keys securely with the help of his/her personal network. Unlike the current centralized systems used in banking there is no mechanism to re-access the funds in-case private keys are lost.
 
-Opoch uses **Shamir's Secret Sharing** algorithm for building Social Recovery mechanisms for recovery of lost private keys \[29\]. Users have the option to securely split the private key in `n` parts, recoverable with the help of `k` parts among them. Thus, providing users a complete freedom over balancing between security and convenience.
+Opoch uses **Shamir's Secret Sharing** algorithm for building Social Recovery mechanisms for recovery of lost private keys \[20\]. Users have the option to securely split the private key in `n` parts, recoverable with the help of `k` parts among them. Thus, providing users a complete freedom over balancing between security and convenience.
 
 ![Figure showing social recovery with 6 shards and a threshold of 4](.gitbook/assets/screen-shot-2018-05-13-at-01.03.23.png)
 
@@ -97,15 +97,15 @@ Decentralized exchange is a necessary bridge between users and the broader ecosy
 
 ![Figure showing exchange of digital asset on Opoch using Kyber](.gitbook/assets/screen-shot-2018-05-11-at-19.19.19.png)
 
-**Kyber Network**
+**KyberNetwork**
 
-Kyber Network is trustless decentralized exchange service which allows instant exchange and conversion of digital assets \[31\].
+KyberNetwork is trustless decentralized exchange service which allows instant exchange and conversion of digital assets \[31\].
 
-Kyber Network builds a decentralized exchange which does not have a order-book. Instead of that it uses concept of liquidity pools which help get the exchange price between two tokens upfront. User is able to complete the token exchange instantaneously at this price.
+KyberNetwork builds a decentralized exchange which does not have a order-book. Instead of that it uses concept of liquidity pools which help get the exchange price between two tokens upfront. User is able to complete the token exchange instantaneously at this price.
 
-Kyber Network provide APIs to integrate these services with other applications.
+KyberNetwork provide APIs to integrate these services with other applications.
 
-**Kyber Network APIs**
+**KyberNetwork APIs**
 
 To complete a exchange the following function needs to be called:
 
@@ -137,7 +137,7 @@ Details around various parameters are as follows:
 
 ### Cross-Chain Interaction
 
-Though Kyber Network integration allows users to exchange cryptocurrency built over ethereum blockchain \(the majority\) instantaneously. It is not possible to exchange assets of other blockchains with this.
+Though KyberNetwork integration allows users to exchange cryptocurrency built over ethereum blockchain \(the majority\) instantaneously. It is not possible to exchange assets of other blockchains with this.
 
 We create cryptocurrency pool managed via smart contract. This would allow users to do cross chain transfers.
 
@@ -173,7 +173,7 @@ Opoch provides APIs for other developers to build on Opoch's platform.
 
 ![Figure showing Exchange API use for converting tokens as requested by client app](.gitbook/assets/screen-shot-2018-05-11-at-20.54.06.png)
 
-* **Subscription**: Subscription economy has been rising in recent years. There are some great examples like Netflix and Spotify of success of Opt-out subscription model. There were 11 Million business-to-consumer subscribers in US alone in 2017\[citation\]. There is no-way in current cryptocurrency ecosystem to power these businesses.  Opoch enables opt-out subscription model with crypto assets available Blockchain with smart contracts . On the user side we create a single smart contract to handle all the subscriptions. The business would be able to deduct approved amount of tokens from this smart contract in a pre-specified time window.
+* **Subscription**: Subscription economy has been rising in recent years. There are some great examples like Netflix and Spotify of success of Opt-out subscription model. There were 11 Million business-to-consumer subscribers in US alone in 2017\[32\]. There is no-way in current cryptocurrency ecosystem to power these businesses.  Opoch enables opt-out subscription model with crypto assets available Blockchain with smart contracts . On the user side we create a single smart contract to handle all the subscriptions. The business would be able to deduct approved amount of tokens from this smart contract in a pre-specified time window.
 
 ![Figure showing Exchange API use where client application requests for subscription payment](.gitbook/assets/screen-shot-2018-05-12-at-23.47.29.png)
 
