@@ -31,7 +31,7 @@ In simple terms, the time required in purchasing process can be broken down into
 
 For example, 
 
-For __**Physical Assets:** Transferring \(shipping\) physical assets bought online is more time consuming than the discovery of the same right now. That's why 1-day delivery, 2-hour delivery is what excites the consumer and adoption most. This ever improving experience has driven e-commerce adoption to levels that has crushed the traditional retail industry\[32\]~~.~~
+For __**Physical Assets:** Transferring \(shipping\) physical assets bought online is more time consuming than the discovery of the same right now. That's why 1-day delivery, 2-hour delivery is what excites the consumer and adoption most. This ever improving experience has driven e-commerce adoption to levels that has crushed the traditional retail industry\[23\]~~.~~
 
 > What's not going to change in 10 years? Because you can build a business strategy around things that are not going to change. For example, '_I love Amazon; I just wish you'd deliver a little more slowly'_, nobody is going to say that in the next 10 years. Therefore, we can focus on making sure we keep improving our delivery times.
 
