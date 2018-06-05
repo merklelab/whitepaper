@@ -24,6 +24,5 @@ The founding team have known each other since last 12 years. Parth and DV have s
 
 All three of them were part of the founding team at Zostel and ZO Rooms \(Two different brands of same startup\). During the years at Zostel, they built a $25m ARR business, raised $35M+ VC, scaled operations with 700+ employees across 35+ cities in SEA. They won Best Startup in Wharton India Economic Forum and Ivey Business School Canada. They were also rewarded with the Best Marketing Campaign in India in year 2014 among several other accolades.
 
-Building awesome stuff requires focus on the product rather than the name below it. The close bond, zero tolerance for bullshit, and experience with successes and failures, uniquely positions the team to take on the challenges for Opoch Age. The information revolution will not be overnight, but require decades of perspiration and hard work. The team knows its strengths and weaknesses, has mastered internal communication and is committed to growth and discipline that the opportunity demands.  
-
+Building awesome stuff requires focus on the product rather than the name below it. The close bond, zero tolerance for bullshit, and experience with successes and failures, uniquely positions the team to take on the challenges for Opoch Age. The information revolution will not be overnight, but require decades of perspiration and hard work. The team knows its strengths and weaknesses, has mastered internal communication and is committed to growth and discipline that the opportunity demands.
 
